@@ -59,3 +59,5 @@ packaging==20.9
 pandas==1.2.2
 pandocfilters==1.4.3
 par
+plotly==5.0.0
+plotly-express==0.4.0
