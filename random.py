@@ -4,15 +4,13 @@ import numpy as np
 import base64
 import streamlit as st
 from PIL import Image
-import numpy as np
 import matplotlib.pyplot as plt
-import seaborn as sns
 st.set_option('deprecation.showPyplotGlobalUse', False) 
 import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 from plotly.offline import plot
-import altair as alt
+
 
 
 st.markdown(
