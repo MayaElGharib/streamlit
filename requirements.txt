@@ -64,7 +64,6 @@ pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
 pyrsistent @ file:///C:/ci/pyrsistent_1600141795814/work
 python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
 pytz==2021.1
-pywin32==301
 pywinpty==1.1.2
 pyzmq==22.1.0
 requests==2.25.1
